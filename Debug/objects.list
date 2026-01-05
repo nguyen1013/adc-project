@@ -1,0 +1,8 @@
+"./src/main.o"
+"./src/spi.o"
+"./src/startup_stm32l152xe.o"
+"./src/syscalls.o"
+"./src/system_stm32l1xx.o"
+"./src/timer.o"
+"./src/tiny_printf.o"
+"./src/usart.o"
