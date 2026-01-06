@@ -1,5 +1,5 @@
 # ADC Temperature measuring project
-The purpose of this project is to design a remote temperature measurement system for use in industrial or production environments. Additionally, the project aims to practice analog circuit design, DAC design, and microcontroller programming. In the future, the project may be expanded and upgraded to measure various types of remote sensors and enhance features such as LCD display, web displaying, and cloud storage...
+The purpose of this project is to design a remote temperature measurement system for use in industrial or production environments. Additionally, the project aims to practice analog circuit design, LTspice simulation and microcontroller programming on STM32 L152RE using SPI interface. In the future, the project may be expanded and upgraded to measure various types of remote sensors and enhance features such as LCD display, web displaying, and cloud storage...
 ## General requirements: 
 - Temperature measurement range: -40 to 60°C 
 - Sensor analog processor output voltage: 0-5V (corresponding to -40 to 60°C) 
