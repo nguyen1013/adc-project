@@ -65,7 +65,8 @@ We simulated the temperature of the LM35 from -40 to 60 degrees Celsius using th
 Based on the test results, we can see that the output temperature corresponds to the expected output voltage of the LM35 (from -40 to 60 degrees Celsius, corresponding to 0.8-1.8V). However, due to the unstable voltage of the LM317 at the transmitter, the 4-20mA current is not very stable. In production, the Texas Instruments reference circuit should be applied to maintain a stable 4-20mA output.
 (*The designs that simulate the 4-20mA circuit based on the Texas Instruments reference design are shown [here](./LTspice-simulation/TI-4-20mA/)*)
 
-[![Wathc the video](./testing-thumbnail.png)](https://www.youtube.com/shorts/lZ-q_fJ-u8o)
+[![Wathc the video](./img/testing-thumbnail.png)](https://www.youtube.com/shorts/lZ-q_fJ-u8o)
+(*Watch the video*)
 
 *****************
 
