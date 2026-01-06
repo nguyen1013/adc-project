@@ -71,7 +71,10 @@ Based on the test results, we can see that the output temperature corresponds to
 
 ## References
 [LM35 datasheet](./ref/lm35-datasheet.pdf)
+
 [LM317 datasheet](./ref/lm317-datasheet.pdf)
+
 [MAX187 ADC datasheet](./ref/max187-max189.pdf)
+
 [LTspice simulation](./LTspice-simulation/)
 
